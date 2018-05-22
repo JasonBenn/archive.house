@@ -1,0 +1,106 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  color: #424241;
+  fill: currentcolor;
+  line-height: 1.53em;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+    Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+}
+
+.section {
+  max-width: 1150px;
+  margin: auto;
+  padding: 1em 2em;
+}
+
+blockquote {
+  border-left: 5px solid #e5e5e5;
+  color: #999;
+  padding: 0.25em 1.5em;
+}
+
+.two-columns {
+  column-count: 2;
+  column-gap: 3em;
+  column-width: 350px;
+  margin-bottom: 1em;
+}
+.two-columns p:first-of-type {
+  margin-top: 0;
+}
+.two-columns p:last-of-type {
+  margin-bottom: 0;
+}
+
+li {
+  margin: 0.5em 0;
+}
+
+p {
+  margin: 1.5em 0;
+}
+
+a {
+  color: #367da2;
+  padding-bottom: 0;
+  margin-bottom: -0;
+  border-bottom: 3px solid rgba(54, 125, 162, 0.15);
+  transition: border 0.1s ease-in;
+  text-decoration: none;
+}
+
+a:hover,
+a:active {
+  color: #295f7c;
+  border-bottom: 3px solid rgba(54, 125, 162, 0.3);
+  transition: border 0.1s ease-in;
+  text-decoration: none;
+}
+
+.footer {
+  text-align: center;
+  width: 90%;
+  color: #aaa;
+  margin: 1.5em;
+  font-size: 0.9em;
+}
+
+.footer .separator {
+  margin: 0 1em;
+}
+
+.footer a {
+  color: #aaa;
+  border-bottom: 2px solid #eee;
+  transition: border 0.1s ease-in;
+}
+
+.footer a:hover {
+  border-bottom: 2px solid #ddd;
+  transition: border 0.1s ease-in;
+}
+
+h1 {
+  font-weight: 500;
+  color: black;
+  font-size: 3.5em;
+  line-height: 1.1em;
+  margin-top: 0.3em;
+}
+
+hr {
+  border: none;
+  text-align: center;
+}
+
+hr:before {
+  content: '~';
+  display: inline-block;
+  margin: auto;
+  color: #999;
+  position: relative;
+  font-style: italic;
+  font-size: 24px;
+  letter-spacing: 0.6em;
+}
