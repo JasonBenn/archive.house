@@ -26,7 +26,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
 
           <p><strong>Arram</strong> was an early employee at Justin.tv and now runs ZeroCater, a business which he bootstrapped and ran from a spreadsheet for two years and which has since been covered by publications such as The New York Times, Forbes, and the Wall Street Journal. Tenacious, considerate, and with more utility belts than Batman, he spends his free time transforming the Archive into a mini-Exploratorium. Ask him about life extension, mad science, or Downton Abbey.</p>
 
-          <p><strong>Ben</strong> has worked on Waze Carpool at Google, AI research at MIRI and OpenAI, and was tech lead at Google’s secretive Area 120. His hobbies include conducting experiments to determine important questions like the best chocolate ice cream, even though he spends most of his time in ketosis (and puts himself through the painful transition every week as an exercise in willpower). Calm and empathetic, Ben’s presence is a soothing influence on our house.</p>
+          <p><strong>Ben</strong> has worked on Waze Carpool at Google, AI research at MIRI and OpenAI, and was a tech lead at Google’s secretive Area 120. His hobbies include conducting experiments to answer important questions like the consensus-best chocolate ice cream, even though he spends most of his time in ketosis (and puts himself through the painful transition every week as an exercise in willpower). Calm and empathetic, Ben’s presence is a soothing influence on our house.</p>
 
           <p><strong>Devon</strong> is a writer (of code and words) now building safe and secure lending protocols on the blockchain at Bloom and producing a yet-unannounced interview series with computing pioneers. Before that, she was Editor in Chief at the Stanford Review and a triathlete. Her interests include urban planning, incentive design, ethics, synthetic biology, linguistics, and AI, and her (excellent) <a href="http://devonzuegel.com/">blog</a> has thousands of readers per month.</p>
 
@@ -44,7 +44,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
 
           <p><strong>Tom</strong> is an AI researcher (OpenAI, Google Brain) working to protect AIs from adversaries that want to manipulate them. Prior to his research, Tom was the cofounder and CTO of Grouper, where he wrote algorithms that used Facebook data to match up millions of people in the real world. Tom probably takes himself the least seriously of anyone whose research has appeared in Scientific American. Enjoys spontaneous gift-giving, contact improv, and digital art.</p>
 
-          <h3>We'd love to meet you! Check out our <a href="https://www.facebook.com/thearchivehouse/">Facebook page</a> to messages us or learn about upcoming events.</h3>
+          <h3>We'd love to meet you! Check out our <a href="https://www.facebook.com/thearchivehouse/">Facebook page</a> to message us or learn about upcoming events.</h3>
 
         </div>
       </div>
