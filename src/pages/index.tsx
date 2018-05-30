@@ -18,7 +18,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
     return (
       <div>
         <div className="section">
-          <h3><strong>The Archive</strong> is a long-term coliving house in the Mission.</h3><p> We value curiosity, reliability, intentionality, and benevolence; we believe that a community that cares for and empowers each other is a key element of a fulfilling and impactful life.</p>
+          <h3><strong>The Archive</strong> is a long-term coliving house near Dolores Park in San Francisco.</h3><p> We value curiosity, reliability, intentionality, and benevolence; we believe that a community that cares for and empowers each other is a key element of a fulfilling and impactful life.</p>
 
           <hr/>
 
