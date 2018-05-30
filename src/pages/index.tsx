@@ -40,9 +40,11 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
 
           <p><strong>Kanjun Qiu</strong> is the CEO of Sourceress and previously cofounded Ember with Josh. Before that, she was the Chief of Staff, PM and engineer at Dropbox. In a past life, she wrote a book that about sewing and circuitry that's now taught in 60 Boston middle schools, arbitraged yarn from her dorm room, and designed high-frequency trading strategies. She’s diplomatic, has a talent for asking incisive questions, and her laugh can be heard from multiple zip codes.</p>
 
-          <p><strong>Michael Lai</strong> is an Entrepreneur-in-Residence at the Omidyar Network working on improving childcare, is building an innovation studio for early childhood development focusing on low-income populations, and has five years of experience volunteering at local schools. Before that he was the youngest director at the Minerva Project, worked on education initiatives at Google.org, competed on Harvard's Varsity Golf team, and organized hip-hop flash mobs. If he's not working or dancing, he's probably reading.</p>
+          <p><strong>Michael Lai</strong> is an Entrepreneur-in-Residence working on improving childcare, is building an innovation studio for early childhood development focusing on low-income populations, and has five years of experience volunteering at local schools. Before that he was the youngest director at the Minerva Project, worked on education initiatives at Google.org, competed on Harvard's Varsity Golf team, and organized hip-hop flash mobs. If he's not working or dancing, he's probably reading.</p>
 
           <p><strong>Tom Brown</strong> is an AI researcher (OpenAI, Google Brain) working to protect AIs from adversaries that want to manipulate them. Prior to his research, Tom was the cofounder and CTO of Grouper, where he wrote algorithms that used Facebook data to match up millions of people in the real world. Tom probably takes himself the least seriously of anyone whose research has appeared in Scientific American. Tom delights in contact improv, digital art, and spontaneous gift-giving.</p>
+
+          <hr/>
 
           <h3>We love hosting friends and meeting new people! Check out our <a href="https://www.facebook.com/thearchivehouse/">Facebook page</a> to message us or learn about upcoming events.</h3>
 
@@ -61,3 +63,4 @@ export const pageQuery = graphql`
     }
   }
 `
+
