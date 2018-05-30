@@ -44,7 +44,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
 
           <p><strong>Tom</strong> is an AI researcher (OpenAI, Google Brain) working to protect AIs from adversaries that want to manipulate them. Prior to his research, Tom was the cofounder and CTO of Grouper, where he wrote algorithms that used Facebook data to match up millions of people in the real world. Tom probably takes himself the least seriously of anyone whose research has appeared in Scientific American. Enjoys spontaneous gift-giving, contact improv, and digital art.</p>
 
-          <h3>We'd love to meet you! Check out our <a href="https://www.facebook.com/thearchivehouse/">Facebook page</a> to message us or learn about upcoming events.</h3>
+          <h3>We love hosting friends and meeting new people! Check out our <a href="https://www.facebook.com/thearchivehouse/">Facebook page</a> to message us or learn about upcoming events.</h3>
 
         </div>
       </div>
