@@ -53,7 +53,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
 
           <p>
             <strong>Ben Mann</strong> has worked on Waze Carpool at Google, AI
-            research at MIRI and OpenAI, and was a tech lead at Google’s 
+            research at MIRI and OpenAI, and was a tech lead at Google’s
             Area 120. Ben's hobbies include meditation, writing, experimentally
             determining the best brand of chocolate, and masochistically entering
             ketosis every week for months as an exercise in willpower. Calm and
@@ -95,8 +95,10 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
             (YouTube Instant), but he’ll be the first to remind you that nobody
             really knows what they’re doing. Feross is articulate, humble, a true
             believer in decentralization, and once organized an impromptu JavaScript
-            conference to get cheap flights and free lodging in Norway.{' '}
-            <a href="https://feross.org/">Homepage</a>.
+            conference in the nothern-most human settlement on Earth in Longyearbyen,
+            Svalbard.{' '}
+            <a href="https://feross.org/">Homepage</a>,{' '}
+            <a href="https://twitter.com/feross">Twitter</a>.
           </p>
 
           <p>
