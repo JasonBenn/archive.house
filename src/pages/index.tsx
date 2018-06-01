@@ -146,14 +146,15 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
-            <strong>Tom Brown</strong> is an AI researcher (OpenAI, Google Brain)
-            working to protect AIs from adversaries that want to manipulate them.
-            Prior to his research, Tom was the cofounder and CTO of Grouper, where he
-            wrote algorithms that used Facebook data to match up millions of people
-            in the real world. Tom probably takes himself the least seriously of
-            anyone whose research has appeared in Scientific American. Tom delights
-            in contact improv, digital art, and spontaneous gift-giving.{' '}
-            <a href="">Homepage</a>.
+            <strong>Tom Brown</strong> Tom Brown is an exceptionally tall AI researcher 
+            (OpenAI, Google Brain) trying to save the world by breaking AI systems 
+            (and make them less breaky in general). Before becoming a <strong>very serious person</strong>, 
+            Tom was the cofounder of Grouper, where he served over a million drinks to partiers in bars 
+            around the world. In his free time, Tom enjoys acroyoga, VR sculpting and plumbing the depths 
+            of the internet for flowing space pants.{' '}
+            <a href="https://medium.com/@nottombrown">Blog</a>,{' '}
+            <a href="https://github.com/nottombrown">GitHub</a>,{' '}
+            <a href="https://twitter.com/nottombrown">Twitter</a>.
           </p>
         </div>
       </div>
