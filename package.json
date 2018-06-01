@@ -16,14 +16,15 @@
     "gatsby-plugin-typescript": "^1.4.10",
     "react-helmet": "^5.2.0"
   },
-  "keywords": ["gatsby, typescript"],
+  "keywords": [
+    "gatsby, typescript"
+  ],
   "license": "MIT",
   "main": "n/a",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "format":
-      "prettier --parser typescript --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.ts*\""
+    "format": "prettier --parser typescript --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.ts*\""
   },
   "devDependencies": {
     "prettier": "^1.8.2"
