@@ -24,8 +24,8 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </h3>
           <p>
             We value curiosity, reliability, intentionality, and benevolence; we
-            believe that a community that cares for and empowers each other is a key
-            element of a fulfilling and impactful life.
+            believe that a community that cares for and empowers each other is key
+            to a fulfilling and impactful life.
           </p>
 
           <p>
@@ -53,7 +53,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
 
           <p>
             <strong>Ben Mann</strong> has worked on Waze Carpool at Google, AI
-            research at MIRI and OpenAI, and was a tech lead at Google’s secretive
+            research at MIRI and OpenAI, and was a tech lead at Google’s 
             Area 120. Ben's hobbies include meditation, writing, experimentally
             determining the best brand of chocolate, and masochistically entering
             ketosis every week for months as an exercise in willpower. Calm and
