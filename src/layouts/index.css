@@ -50,6 +50,11 @@ a {
   text-decoration: none;
 }
 
+a.subtle {
+  color: #424241;
+  border-bottom: none;
+}
+
 a:hover,
 a:active {
   color: #295f7c;

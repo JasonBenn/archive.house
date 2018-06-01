@@ -77,14 +77,12 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
             thing she cares most about is unlocking human potential. In this vein,
             she thinks a lot about incentive design, tools for thought, and cities.
             These days, she is building lending protocols on the blockchain at{' '}
-            <a href="https://bloom.co">Bloom</a>, producing a yet-unannounced
+            <a className="subtle" href="https://bloom.co">Bloom</a>, producing a yet-unannounced
             interview series with computing pioneers, and{' '}
-            <del>blustering on and on</del> writing about land use policy. Before
+            <del>blustering on and on</del> writing about land use policy on her (excellent) blog. Before
             that, she was Editor in Chief at the{' '}
-            <a href="https://stanfordreview.org/">Stanford Review</a> and a
-            triathlete. Her interests include urban planning, incentive design,
-            ethics, linguistics, psychology, and AI, and her excellent blog has
-            thousands of readers per month. Also, Devon really, really likes dogs.{' '}
+            <a className="subtle" href="https://stanfordreview.org/">Stanford Review</a> and a
+            triathlete.{' '}
             <a href="http://devonzuegel.com/">Blog</a>,{' '}
             <a href="https://twitter.com/devonzuegel/">Twitter</a>.
           </p>
