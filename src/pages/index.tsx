@@ -110,7 +110,9 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
             Sourceress. He’s been profiled in Cal Newport's "Deep Work" for his habit
             of interleaving work with periods of intense study. Enthusiastic,
             inclusive, a tad gullible, half-giant, and Keeper of Keys and Grounds at
-            the Archive, Jason is basically Hagrid.
+            the Archive, Jason is basically Hagrid.{' '}
+            <a href="https://jasonbenn.github.io/">Homepage</a>,{' '}
+            <a href="https://www.facebook.com/jasoncbenn">Facebook</a>.
           </p>
 
           <p>
