@@ -97,7 +97,8 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
             believer in decentralization, and once organized an impromptu JavaScript
             conference in the nothern-most human settlement on Earth in Longyearbyen,
             Svalbard.{' '}
-            <a href="https://feross.org/">Homepage</a>,{' '}
+            <a href="https://feross.org/">Blog</a>,{' '}
+            <a href="https://github.com/feross">GitHub</a>,{' '}
             <a href="https://twitter.com/feross">Twitter</a>.
           </p>
 
