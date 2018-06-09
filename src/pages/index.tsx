@@ -88,13 +88,13 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
-            <strong>Feross Aboukhadijeh</strong> writes open source software that is
-            downloaded 200 million times per month. He founded PeerCDN (acquired by
+            <strong>Feross Aboukhadijeh</strong> writes open source software packages that are
+            collectively downloaded 200 million times per month. He founded PeerCDN (acquired by
             Yahoo), <a className="subtle" href="https://www.apstudynotes.org">Study Notes</a>
             (reaches 800K+ students per month), and once garnered worldwide media attention
-            for a clever hack (YouTube Instant). Feross loves to build things that
-            make people say "Whoa, I didn't know that was possible!". He once ran an
-            impromptu JavaScript conference in the nothern-most human settlement on Earth, Svalbard.{' '}
+            for a clever hack (YouTube Instant). Feross loves to build things that make people
+            say "Whoa, I didn't know that was possible!". He once ran an impromptu JavaScript
+            conference in the nothern-most human settlement on Earth, Svalbard.{' '}
             <a href="https://feross.org/">Blog</a>,{' '}
             <a href="https://github.com/feross">GitHub</a>,{' '}
             <a href="https://twitter.com/feross">Twitter</a>.
