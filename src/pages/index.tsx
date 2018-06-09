@@ -88,15 +88,14 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
-            <strong>Feross Aboukhadijeh</strong> writes open source software packages
-            that are collectively downloaded 200 million times per month. He founded
-            PeerCDN (acquired by Yahoo), Study Notes (reaches 800K+ students per
-            month), and once had a side project garner worldwide media attention
-            (YouTube Instant), but he’ll be the first to remind you that nobody
-            really knows what they’re doing. Feross is articulate, humble, a true
-            believer in decentralization, and once organized an impromptu JavaScript
-            conference in the nothern-most human settlement on Earth in Longyearbyen,
-            Svalbard.{' '}
+            <strong>Feross Aboukhadijeh</strong> writes open source software that is
+            downloaded 200 million times per month. He founded PeerCDN (acquired by
+            Yahoo), Study Notes (reaches 800K+ students per month), and once garnered
+            worldwide media attention for a three-hour hack (YouTube Instant), but
+            he’ll be the first to tell you that nobody really knows what they’re doing.
+            Feross loves to build things that make people say "Whoa, I didn't know that
+            was possible!" and once ran an impromptu JavaScript conference in the
+            nothern-most human settlement on Earth, Longyearbyen.{' '}
             <a href="https://feross.org/">Blog</a>,{' '}
             <a href="https://github.com/feross">GitHub</a>,{' '}
             <a href="https://twitter.com/feross">Twitter</a>.
