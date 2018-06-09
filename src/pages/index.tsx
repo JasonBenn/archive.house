@@ -148,7 +148,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
-            <strong>Tom Brown</strong> Tom Brown is an exceptionally tall AI researcher 
+            <strong>Tom Brown</strong> is an exceptionally tall AI researcher 
             (OpenAI, Google Brain) trying to save the world by breaking AI systems 
             (and make them less breaky in general). Before becoming a <em>very serious person</em>, 
             Tom was the cofounder of Grouper, where he served over a million drinks to partiers in bars 
