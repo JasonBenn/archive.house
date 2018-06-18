@@ -29,11 +29,8 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
-            The Archive is growing! If you&rsquo;d like to know more, {' '}
-            <a href="https://goo.gl/forms/KntxP2F8QxVEQbWD3">shoot us a message</a>. We
-            also have a{' '}
-            <a href="https://www.facebook.com/thearchivehouse/">Facebook page</a>{' '}
-            where we occasionally post public-facing events.
+            The Archive is growing! We acquired an additional floor of our building. If you&rsquo;d like to know more, {' '}
+            <a href="https://goo.gl/forms/KntxP2F8QxVEQbWD3">shoot us a message</a> :)
           </p>
 
           <hr />
