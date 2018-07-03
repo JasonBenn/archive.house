@@ -40,14 +40,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           <h3>Residents</h3>
 
           <p>
-            <strong>Arram Sabeti</strong> was an early employee at Justin.tv and now
-            runs ZeroCater, a business which he bootstrapped and ran from a
-            spreadsheet for two years and which has since been covered by
-            publications such as The New York Times, Forbes, and the Wall Street
-            Journal. Tenacious, considerate, and with more utility belts than Batman,
-            he spends his free time transforming the Archive into a
-            mini-Exploratorium. Ask him about life extension, mad science, or Downton
-            Abbey. <a href="https://www.arr.am/">Homepage</a>.
+            <strong>Arram Sabeti</strong> founded ZeroCater, a business he grew from his living room to over 150 people which has now sold over a quarter billion dollars in meals and has been covered by publications such as The New York Times, The Wall Street Journal, and Forbes. Tenacious, considerate, and with more utility belts than Batman, he spends his free time building robots and doing mad science. <a href="https://www.arr.am/">Homepage</a>.
           </p>
 
           <p>
