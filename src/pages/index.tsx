@@ -18,21 +18,23 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
     return (
       <div>
         <div className="section">
-          <h3>
+          <h2>
             <strong>The Archive</strong> is a long-term coliving house near Dolores
-            Park in San Francisco.
-          </h3>
+            Park in San&nbsp;Francisco.
+          </h2>
           <p>
             We value curiosity, reliability, intentionality, and benevolence; we
             believe that a community that cares for and empowers each other is key
             to a fulfilling and impactful life.
           </p>
 
-          <p>
-            The Archive is growing! We acquired an additional floor of our building. If you&rsquo;d like to know more, {' '}
-            <a href="https://goo.gl/forms/KntxP2F8QxVEQbWD3">shoot us a message</a> :)
-          </p>
+          <h3>
+            The Archive is growing! If you&rsquo;d like to live with us, {' '}
+            <a href="https://goo.gl/forms/KntxP2F8QxVEQbWD3">shoot us a message</a>.
+          </h3>
 
+          <hr />
+          <img src="/archive1.jpg" alt="Image of the living room at The Archive" />
           <hr />
 
           <h3>Residents</h3>
@@ -143,16 +145,18 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
-            <strong>Tom Brown</strong> is an exceptionally tall AI researcher 
-            (OpenAI, Google Brain) trying to save the world by breaking AI systems 
-            (and make them less breaky in general). Before becoming a <em>very serious person</em>, 
-            Tom was the cofounder of Grouper, where he served over a million drinks to partiers in bars 
-            around the world. In his free time, Tom enjoys acroyoga, VR sculpting and plumbing the depths 
+            <strong>Tom Brown</strong> is an exceptionally tall AI researcher
+            (OpenAI, Google Brain) trying to save the world by breaking AI systems
+            (and make them less breaky in general). Before becoming a <em>very serious person</em>,
+            Tom was the cofounder of Grouper, where he served over a million drinks to partiers in bars
+            around the world. In his free time, Tom enjoys acroyoga, VR sculpting and plumbing the depths
             of the internet for flowing space pants.{' '}
             <a href="https://medium.com/@nottombrown">Blog</a>,{' '}
             <a href="https://github.com/nottombrown">GitHub</a>,{' '}
             <a href="https://twitter.com/nottombrown">Twitter</a>.
           </p>
+
+          <img src="/archive2.jpg" alt="Image of the The Archive residents laughing" />
         </div>
       </div>
     )

@@ -9,9 +9,13 @@ body {
 }
 
 .section {
-  max-width: 1150px;
+  max-width: 800px;
   margin: auto;
   padding: 1em 2em;
+}
+
+img {
+  max-width: 100%;
 }
 
 blockquote {
