@@ -37,7 +37,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           <img src="/archive1.jpg" alt="Image of the living room at The Archive" />
           <hr />
 
-          <h3>Residents</h3>
+          <h2>Residents</h2>
 
           <p>
             <strong>Arram Sabeti</strong> founded ZeroCater, a business he grew from his living room to over 150 people which has now sold over a quarter billion dollars in meals and has been covered by publications such as The New York Times, The Wall Street Journal, and Forbes. Tenacious, considerate, and with more utility belts than Batman, he spends his free time building robots and doing mad science. <a href="https://www.arr.am/">Homepage</a>.
@@ -148,6 +148,8 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
             <a href="https://github.com/nottombrown">GitHub</a>,{' '}
             <a href="https://twitter.com/nottombrown">Twitter</a>.
           </p>
+
+          <hr />
 
           <img src="/archive2.jpg" alt="Image of the The Archive residents laughing" />
         </div>
