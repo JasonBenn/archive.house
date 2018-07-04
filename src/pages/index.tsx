@@ -56,7 +56,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           <p>
             <strong>Christina Kim</strong>, prior to her current work at Sourceress,
             conducted HCI research at{' '}
-            <a className="subtle" http://dtr.northwestern.edu/>Delta Lab</a>, was student body vice president at
+            <a className="subtle" href="http://dtr.northwestern.edu/">Delta Lab</a>, was student body vice president at
             Northwestern, and hosted their first hackathon. Before that, she built a
             working wood pipe organ and opened a bakery in South Africa with her
             limited background in Easy-Bake Ovens. A loyal friend, a voracious speed
