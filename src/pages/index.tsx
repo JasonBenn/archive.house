@@ -104,7 +104,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
             of interleaving work with periods of intense study. Enthusiastic,
             inclusive, a tad gullible, half-giant, and Keeper of Keys and Grounds at
             the Archive, Jason is basically Hagrid.{' '}
-            <a href="http://jasonbenn.com/">Homepage</a>,{' '}
+            <a href="https://jasonbenn.com/">Homepage</a>,{' '}
             <a href="https://www.facebook.com/jasoncbenn">Facebook</a>.
           </p>
 
