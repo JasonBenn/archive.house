@@ -43,6 +43,10 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
             <strong>Arram Sabeti</strong> founded ZeroCater, a business he grew from his living room to over 150 people which has now sold over a quarter billion dollars in meals and has been covered by publications such as The New York Times, The Wall Street Journal, and Forbes. Tenacious, considerate, and with more utility belts than Batman, he spends his free time building robots and doing mad science. <a href="https://www.arr.am/">Homepage</a>.
           </p>
 
+           <p>
+            <strong>Austin Hou</strong> is a designer and engineer. An avid explorer of ideas, places, and experiences, he has flown 22.4x around the earth by distance and has spent time in 67 countries. He has worked on critical protocols at Stanford Hospital, the Deep Space Network at JPL/NASA, ML research at SETI, and co-founded Mavencook, a video cooking app. He also enjoys experimenting with creative technology - this year, he built lighting systems for the Temple at Burning Man. When not working, you can often find him behind the lens of a camera. <a href="http://ayh.io/">Homepage</a>.
+          </p>
+
           <p>
             <strong>Ben Mann</strong> has worked on Waze Carpool at Google, AI
             research at MIRI and OpenAI, and was a tech lead at Google’s
