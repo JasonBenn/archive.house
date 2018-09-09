@@ -72,34 +72,6 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
-            <strong>Devon Zuegel</strong> is a writer (of code and words), and the
-            thing she cares most about is unlocking human potential. In this vein,
-            she thinks a lot about incentive design, tools for thought, and cities.
-            These days, she is building lending protocols on the blockchain at{' '}
-            <a className="subtle" href="https://bloom.co">Bloom</a>, producing a yet-unannounced
-            interview series with computing pioneers, and{' '}
-            <del>blustering on and on</del> writing about land use policy on her (excellent) blog. Before
-            that, she was Editor in Chief at the{' '}
-            <a className="subtle" href="https://stanfordreview.org/">Stanford Review</a> and a
-            triathlete.{' '}
-            <a href="http://devonzuegel.com/">Blog</a>,{' '}
-            <a href="https://twitter.com/devonzuegel/">Twitter</a>.
-          </p>
-
-          <p>
-            <strong>Feross Aboukhadijeh</strong> writes open source software packages that are
-            collectively downloaded 200 million times per month. He founded PeerCDN (acquired by
-            Yahoo), <a className="subtle" href="https://www.apstudynotes.org">Study Notes</a>{' '}
-            (reaches 800K+ students per month), and once garnered worldwide media attention
-            for a clever hack (YouTube Instant). Feross loves to build things that make people
-            say "Whoa, I didn't know that was possible!". He once ran an impromptu JavaScript
-            conference in the nothern-most human settlement on Earth, Svalbard.{' '}
-            <a href="https://feross.org/">Blog</a>,{' '}
-            <a href="https://github.com/feross">GitHub</a>,{' '}
-            <a href="https://twitter.com/feross">Twitter</a>.
-          </p>
-
-          <p>
             <strong>Gillian Morris</strong> is the founder and CEO of <a href="http://hitlistapp.com/">Hitlist</a>, an app that alerts you when there are cheap flights for your dream trips. Before entering the start-up world, Gillian worked as a consultant, journalist, and educator in Turkey, China, Afghanistan, and Syria. Her work has appeared in/on the New York Times, Harvard Business Review, Buzzfeed, and others. Between flights, Gillian is fighting to regain her six pack thanks to the Archive's sweet home gym and sweat lodge setup. <a href="http://gillian.im/">Blog</a>, <a href="http://twitter.com/gillianim">Twitter</a>, <a href="https://www.facebook.com/gillianim">Facebook</a>.
           </p>
 
