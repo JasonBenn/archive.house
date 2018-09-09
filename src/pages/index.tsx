@@ -160,6 +160,10 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
             <a href="https://twitter.com/nottombrown">Twitter</a>.
           </p>
 
+          <p>
+            <strong>Zain Shah</strong> is an ML engineer at Opendoor. Before that he was a research scientist at OpenAI and founder of a mobile analytics company called Watchsend. He has a knack for scrappy solutions to hard problems: be it gathering unsupervised training data for deep learning, finding great flight deals, or memorizing 200 digits of pi in case he’s ever without a calculator. <a href="http://tarzain.com/">Homepage</a>.
+          </p>
+
           <hr />
 
           <img src="/archive2.jpg" alt="Image of the The Archive residents laughing" />
