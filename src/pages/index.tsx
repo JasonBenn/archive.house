@@ -110,6 +110,10 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
+            <strong>Laura D'Asaro</strong> is the co-founder/CBO at <a href="https://chirpschips.com/">Chirps</a> and spends most of her time thinking about how to get people to eat more bugs. They got a deal on Shark Tank in 2017, and Chirps are now in stores nationwide. When not cooking up crickets, you’ll usually find her working on her next crazy plan, like constructing the world’s largest nachos, or figuring out how to grow a giant pumpkin and make it into a boat. She also plays the ukulele poorly but passionately, can walk on her hands, and has an unusual love of watermelon.
+          </p>
+
+          <p>
             <strong>Michael Lai</strong> is an Entrepreneur-in-Residence working on
             improving childcare, is building an innovation studio for early childhood
             development focusing on low-income populations, and has five years of
