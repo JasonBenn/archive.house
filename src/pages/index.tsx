@@ -76,16 +76,8 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
-            <strong>Jason Benn</strong> is passionate about better preparing us for
-            the coming unemployment crisis. He previously built a digital classroom
-            at the Minerva Project (a university startup), and is now tackling the
-            problem from another angle by building the machine learning systems at
-            Sourceress. He’s been profiled in Cal Newport's "Deep Work" for his habit
-            of interleaving work with periods of intense study. Enthusiastic,
-            inclusive, a tad gullible, half-giant, and Keeper of Keys and Grounds at
-            the Archive, Jason is basically Hagrid.{' '}
-            <a href="https://jasonbenn.com/">Homepage</a>,{' '}
-            <a href="https://www.facebook.com/jasoncbenn">Facebook</a>.
+            <strong>Jason Benn</strong> is a self-taught machine learning engineer that has been profiled in Cal Newport's "Deep Work" for his habit of interleaving work with periods of intense study. These days he also spends his time watercolor painting and working on the Community Interviewing Project, AKA the Don't Make Other People's Mistakes project. Enthusiastic, inclusive, a tad gullible, half-giant, and Keeper of Keys and Grounds at the Archive, Jason is basically Hagrid.{' '}
+            <a href="https://jasonbenn.com/">Homepage</a>.
           </p>
 
           <p>
