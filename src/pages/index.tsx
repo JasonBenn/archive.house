@@ -30,7 +30,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
 
           <h3>
             The Archive is growing! If you&rsquo;d like to live with us, {' '}
-            <a href="https://goo.gl/forms/KntxP2F8QxVEQbWD3">shoot us a message</a>.
+            <a href="https://goo.gl/forms/pTT0HuMgG0xIgf9t2">shoot us a message</a>.
           </h3>
 
           <hr />
