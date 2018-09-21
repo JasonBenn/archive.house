@@ -116,8 +116,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
             was decidedly NOT the next Tiger Woods. His love for education starts from the classroom — 
             6 years volunteer teaching preschool, elementary, and middle school. 
             If he’s not starting <a href="http://mtclai.com/organizing">flashmob dance parties</a>, meditating, 
-            or planning birthday surprises for his friends, he’s probably curled up with 
-            <a href="bit.ly/michaelreads">a book</a>.{' '}
+            or planning birthday surprises for his friends, he’s probably curled up with <a href="http://bit.ly/michaelreads">a book</a>.{' '}
             <a href="http://mtclai.com/">Homepage</a>.
           </p>
 
