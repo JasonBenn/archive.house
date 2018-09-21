@@ -40,11 +40,13 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           <h2>Residents</h2>
 
           <p>
-            <strong>Arram Sabeti</strong> founded ZeroCater, a business he grew from his living room to over 150 people which has now sold over a quarter billion dollars in meals and has been covered by publications such as The New York Times, The Wall Street Journal, and Forbes. Tenacious, considerate, and with more utility belts than Batman, he spends his free time building robots and doing mad science. <a href="https://www.arr.am/">Homepage</a>.
+            <strong>Arram Sabeti</strong> founded ZeroCater, a business he grew from his living room to over 150 people which has now sold over a quarter billion dollars in meals and has been covered by publications such as The New York Times, The Wall Street Journal, and Forbes. Tenacious, considerate, and with more utility belts than Batman, he spends his free time building robots and doing mad science.{' '}
+            <a href="https://www.arr.am/">Homepage</a>.
           </p>
 
            <p>
-            <strong>Austin Hou</strong> is a designer and engineer. An avid explorer of ideas, places, and experiences, he has flown 22.4x around the earth by distance and has spent time in 67 countries. He has worked on critical protocols at Stanford Hospital, the Deep Space Network at JPL/NASA, ML research at SETI, and co-founded Mavencook, a video cooking app. He also enjoys experimenting with creative technology - this year, he built lighting systems for the Temple at Burning Man. When not working, you can often find him behind the lens of a camera. <a href="http://ayh.io/">Homepage</a>.
+            <strong>Austin Hou</strong> is a designer and engineer. An avid explorer of ideas, places, and experiences, he has flown 22.4x around the earth by distance and has spent time in 67 countries. He has worked on critical protocols at Stanford Hospital, the Deep Space Network at JPL/NASA, ML research at SETI, and co-founded Mavencook, a video cooking app. He also enjoys experimenting with creative technology - this year, he built lighting systems for the Temple at Burning Man. When not working, you can often find him behind the lens of a camera.{' '}
+            <a href="http://ayh.io/">Homepage</a>.
           </p>
 
           <p>
@@ -106,14 +108,17 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
-            <strong>Michael Lai</strong> is an Entrepreneur-in-Residence working on
-            improving childcare, is building an innovation studio for early childhood
-            development focusing on low-income populations, and has five years of
-            experience volunteering at local schools. Before that he was the youngest
-            director at the Minerva Project, worked on education initiatives at
-            Google.org, competed on Harvard's Varsity Golf team, and organized
-            hip-hop flash mobs. If he's not working or dancing, he's probably
-            reading. <a href="http://mtclai.com/">Homepage</a>.
+            <strong>Michael Lai</strong>'s six word story is “failed professional athlete, 
+            trying education entrepreneur.” He is currently exploring startup ideas to improve
+            childcare in America and building a nonprofit venture studio for early childhood development. 
+            Previously, he was a Director helping build a university from scratch at Minerva Project, 
+            worked at Google.org, and studied at Harvard, where he played on the Varsity Golf Team and
+            was decidedly NOT the next Tiger Woods. His love for education starts from the classroom — 
+            6 years volunteer teaching preschool, elementary, and middle school. 
+            If he’s not starting <a href="http://mtclai.com/organizing">flashmob dance parties</a>, meditating, 
+            or planning birthday surprises for his friends, he’s probably curled up with 
+            <a href="bit.ly/michaelreads">a book</a>.{' '}
+            <a href="http://mtclai.com/">Homepage</a>.
           </p>
 
           <p>
