@@ -134,7 +134,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
 
           <hr />
 
-          <img src="/archive2.jpg" alt="Image of the The Archive residents laughing" />
+          <img src="/archive3.jpg" alt="Image of the The Archive's backyard" />
         </div>
       </div>
     )
