@@ -109,14 +109,14 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
 
           <p>
             <strong>Michael Lai</strong>'s six word story is “failed professional athlete, 
-            trying education entrepreneur.” He is currently exploring startup ideas to improve
+            striving education entrepreneur.” He is currently exploring startup ideas to improve
             childcare in America and building a nonprofit venture studio for early childhood development. 
             Previously, he was a Director helping build a university from scratch at Minerva Project, 
-            worked at Google.org, and studied at Harvard, where he played on the Varsity Golf Team and
-            was decidedly NOT the next Tiger Woods. His love for education starts from the classroom — 
+            worked at Google.org, and competed on Harvard's varsity golf team (where he
+            was decidedly NOT the next Tiger Woods). His passion for education starts from the classroom — 
             6 years volunteer teaching preschool, elementary, and middle school. 
             If he’s not starting <a href="http://mtclai.com/organizing">flashmob dance parties</a>, meditating, 
-            or planning birthday surprises for his friends, he’s probably curled up with <a href="http://bit.ly/michaelreads">a book</a>.{' '}
+            or adding magic to a friend's day, he’s probably curled up with <a href="http://bit.ly/michaelreads">a book</a>.{' '}
             <a href="http://mtclai.com/">Homepage</a>.
           </p>
 
