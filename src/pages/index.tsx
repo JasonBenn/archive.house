@@ -34,7 +34,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </h3>
 
           <hr />
-          <img src="/archive3.jpg" alt="Image of the The Archive's backyard" />
+          <img src="/archive1.jpg" alt="Image of the living room at The Archive" />
           <hr />
 
           <h2>Residents</h2>
@@ -138,7 +138,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
 
           <hr />
 
-          <img src="/archive1.jpg" alt="Image of the living room at The Archive" />
+          <img src="/archive3.jpg" alt="Image of the The Archive's backyard" />
         </div>
       </div>
     )
