@@ -40,7 +40,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           <h2>Residents</h2>
 
           <p>
-            <strong>Annie Brett</strong> is a oceanographer, explorer and lawyer who spends her time thinking up novel ways to solve wicked ocean problems for Stanford and the World Economic Forum. In the more romantic past she spent several years as the youngest female captain (of an 18-person vessel!) in the Pacific, visiting remote islands, learning how to fix anything with duct tape, and amassing sea stories. Now that she has all the degrees, she spends her free time running National Geographic expeditions, tinkering with boats and plants, and searching for fresh raspberries.
+            <strong>Annie Brett</strong> is a oceanographer, explorer and lawyer who spends her time thinking up novel ways to solve wicked ocean problems for Stanford and the World Economic Forum. In the more romantic past she spent several years as the youngest female captain in the Pacific, visiting remote islands, learning how to fix anything with duct tape, and amassing sea stories with 18-person crew. Now that she has all the degrees, she spends her free time running National Geographic expeditions, tinkering with boats and plants, and searching for fresh raspberries.
           </p>
 
           <p>
