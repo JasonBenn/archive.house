@@ -81,7 +81,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
-            <strong>Gillian Morris</strong> is the founder and CEO of <a href="http://hitlistapp.com/">Hitlist</a>, an app that alerts you when there are cheap flights for your dream trips. Before entering the start-up world, Gillian worked as a consultant, journalist, and educator in Turkey, China, Afghanistan, and Syria. Her work has appeared in/on the New York Times, Harvard Business Review, Buzzfeed, and others. Between flights, Gillian is fighting to regain her six pack thanks to the Archive's sweet home gym and sweat lodge setup. <a href="http://gillian.im/">Blog</a>, <a href="http://twitter.com/gillianim">Twitter</a>, <a href="https://www.facebook.com/gillianim">Facebook</a>.
+            <strong>Gillian Morris</strong> is the founder and CEO of <a href="http://hitlistapp.com/">Hitlist</a>, an app that alerts you when there are cheap flights for your dream trips. Before entering the start-up world, Gillian worked as a consultant, journalist, and educator in Turkey, China, Afghanistan, and Syria. Her work has appeared in/on the New York Times, Harvard Business Review, Buzzfeed, and others. Between flights, Gillian is fighting to regain her six pack thanks to the Archive's sweet home gym and sauna setup. <a href="http://gillian.im/">Blog</a>, <a href="http://twitter.com/gillianim">Twitter</a>, <a href="https://www.facebook.com/gillianim">Facebook</a>.
           </p>
 
           <p>
