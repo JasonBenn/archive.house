@@ -35,6 +35,9 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           <p>
             Interested in staying with us for a short amount of time instead? Check out one of our <a href="https://www.airbnb.com/rooms/28964034" target='blank'>Airbnb listings</a>.
           </p>
+          <p>
+            Or maybe you'd prefer to stay updated on future plans or events. If so, consider signing up for our <a href="https://tinyletter.com/archive-house-sf" target='blank'>occasional newsletter</a>.
+          </p>
 
           <hr />
           <img src="/archive1.jpg" alt="Image of the living room at The Archive" />
