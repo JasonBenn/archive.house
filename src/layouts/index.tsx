@@ -21,6 +21,8 @@ class DefaultLayout extends React.PureComponent<DefaultLayoutProps, void> {
           meta={[
             {name: 'description', content: ''},
             {name: 'keywords', content: ''},
+            // Pinterest
+            {name: 'p:domain_verify', content: '2eced04c7cbc5f9eb0f55d2913da5018'},
           ]}
         />
         {this.props.children()}

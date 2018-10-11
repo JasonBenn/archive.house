@@ -46,7 +46,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           <h2>Residents</h2>
 
           <p>
-            <strong>Annie Brett</strong> is a oceanographer, explorer and lawyer who spends her time thinking up novel ways to solve wicked ocean problems for Stanford and the World Economic Forum. In the more romantic past she spent several years as the youngest female captain in the Pacific, visiting remote islands, learning how to fix anything with duct tape, and amassing sea stories with 18-person crew. Now that she has all the degrees, she spends her free time running National Geographic expeditions, tinkering with boats and plants, and searching for fresh raspberries.
+            <strong>Annie Brett</strong> is an oceanographer, explorer and lawyer who spends her time thinking up novel ways to solve wicked ocean problems for Stanford and the World Economic Forum. In the more romantic past she spent several years as the youngest female captain in the Pacific, visiting remote islands, learning how to fix anything with duct tape, and amassing sea stories with an 18-person crew. Now that she has all the degrees, she spends her free time running National Geographic expeditions, tinkering with boats and plants, and searching for fresh raspberries.
           </p>
 
           <p>
@@ -118,14 +118,14 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
-            <strong>Michael Lai</strong>'s six word story is “failed professional athlete, 
+            <strong>Michael Lai</strong>'s six word story is “failed professional athlete,
             striving education entrepreneur.” He is currently exploring startup ideas to improve
-            childcare in America and building a nonprofit venture studio for early childhood development. 
-            Previously, he was a Director helping build a university from scratch at Minerva Project, 
+            childcare in America and building a nonprofit venture studio for early childhood development.
+            Previously, he was a Director helping build a university from scratch at Minerva Project,
             worked at Google.org, and competed on Harvard's varsity golf team (where he
-            was decidedly NOT the next Tiger Woods). His passion for education starts from the classroom — 
-            6 years volunteer teaching preschool, elementary, and middle school. 
-            If he’s not starting <a href="http://mtclai.com/organizing">flashmob dance parties</a>, meditating, 
+            was decidedly NOT the next Tiger Woods). His passion for education starts from the classroom —
+            6 years volunteer teaching preschool, elementary, and middle school.
+            If he’s not starting <a href="http://mtclai.com/organizing">flashmob dance parties</a>, meditating,
             or adding magic to a friend's day, he’s probably curled up with <a href="http://bit.ly/michaelreads">a book</a>.{' '}
             <a href="http://mtclai.com/">Homepage</a>.
           </p>
