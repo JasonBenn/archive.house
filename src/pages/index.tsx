@@ -143,6 +143,13 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
+            <strong>Tommy Collison</strong> is an Irish startup person, coder, writer, and pilot-in-training. He's
+            working on growth and international expansion at <a href="http://lambdaschool.com">Lambda School</a>,
+            where he's also studying web development. His dubious achievement is that he's kept a list of every book 
+            he's read since 2009. <a href="https://twitter.com">Twitter</a>, <a href="https://tommycollison.com">homepage</a>.
+          </p>
+
+          <p>
             <strong>Zain Shah</strong> is an ML engineer at Opendoor. Before that he was a research scientist at OpenAI and founder of a mobile analytics company called Watchsend. He has a knack for scrappy solutions to hard problems: be it gathering unsupervised training data for deep learning, finding great flight deals, or memorizing 200 digits of pi in case he’s ever without a calculator. <a href="http://tarzain.com/">Homepage</a>.
           </p>
 
