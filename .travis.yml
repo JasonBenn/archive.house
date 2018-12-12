@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+ — “7”
+script:
+ — echo “Deploying to Firebase”
+install:
+ — npm install -g firebase-tools
+after_success:
+ — firebase deploy — project archive-house — token $FIREBASE_TOKEN.
