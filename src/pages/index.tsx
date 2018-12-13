@@ -131,6 +131,10 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
+            <strong>Nina Miolane</strong> is a researcher and lecturer at Stanford, where she explores the mysteries of healthy and pathological brains. She loves to think about the Minority Report of medicine: what if we could diagnose and cure diseases even before the symptoms appear? Prior to this, she was a machine learning engineer at Bay Labs working on the automatic diagnosis of cardiovascular diseases, she was also a graduate student in mathematical physics working on neutrinos detection. If not at the Archive, look for her on a flying trapeze at the circus, riding her motorcycle on the 1, or hiking in the wilderness! <a href="https://sites.google.com/site/ninamiolane/">Homepage</a>.
+          </p>
+
+          <p>
             <strong>Tom Brown</strong> is an exceptionally tall AI researcher
             (OpenAI, Google Brain) trying to save the world by breaking AI systems
             (and make them less breaky in general). Before becoming a <em>very serious person</em>,
