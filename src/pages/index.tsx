@@ -144,7 +144,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
             stalk their friends with Facebook Graph Search. He thinks the attention economy is 
             harvesting human potential and filling our brains with sludge, and instead wishes 
             his phone would manipulate him into becoming the person he wants to be. 
-            <a href="http://twitter.com/tayroga">Twitter</a>
+             <a href="http://twitter.com/tayroga">Twitter</a>
 
           </p>
           <p>
