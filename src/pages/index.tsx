@@ -70,6 +70,10 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
+            <strong>Chris V</strong> is an engineer, startup founder, amateur locksmith, and part-time tow truck driver. When not building useful things, he likes type annotating Python, making art in the desert, and creating <a href="https://poopscoop.io">stupid hackathon</a> projects. He'll almost certainly let you borrow his camping gear.
+          </p>
+
+          <p>
             <strong>Christina Kim</strong>, prior to her current work at Sourceress,
             conducted HCI research at{' '}
             <a className="subtle" href="http://dtr.northwestern.edu/">Delta Lab</a>, was student body vice president at
