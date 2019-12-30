@@ -29,7 +29,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <h3>
-            The Archive is growing! If you&rsquo;d like to live with us, {' '}
+            If you&rsquo;d like to live with us, {' '}
             <a href="https://goo.gl/forms/pTT0HuMgG0xIgf9t2">shoot us a message</a>.
           </h3>
           <p>
@@ -46,7 +46,18 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           <h2>Residents</h2>
 
           <p>
+            <strong>Amanda Askell</strong> is a research scientist on the policy team at OpenAI where her goal is to help make AI go well for the world. Before working on AI she did research in philosophy and the ways that infinities break ethical theories. She’s originally from Scotland but has adapted to the Bay Area by adopting popular regional hobbies like climbing, autodidactism, and engaging with weird art.{' '}
+            <a href="https://askell.io/">Homepage</a>.
+          </p>
+
+          <p>
             <strong>Annie Brett</strong> is an oceanographer, explorer and lawyer who spends her time thinking up novel ways to solve wicked ocean problems for Stanford and the World Economic Forum. In the more romantic past she spent several years as the youngest female captain in the Pacific, visiting remote islands, learning how to fix anything with duct tape, and amassing sea stories with an 18-person crew. Now that she has all the degrees, she spends her free time running National Geographic expeditions, tinkering with boats and plants, and searching for fresh raspberries.
+          </p>
+
+          <p>
+            <strong>Armand Cognetta</strong> is a chemical biologist whose graduate work was focused on developing chemo-proteomic platform technologies to make drug discovery safer and more effective. He's read roughly one book for every ten days he’s been literate, and his life goal is to spontaneously recreate the Inigo/Wesley swordfight scene from The Princess Bride on a ping pong table with a masked stranger. He spends his free time skiing, biking, running, and doing other suffer-intensive activities. Currently, he’s building a drug discovery platform company based on a novel technology to target "undruggable” proteins and create better therapeutics.{' '}
+            <a href="https://arman.do/">Homepage</a>,{' '}
+            <a href="https://twitter.com/armandcognetta">Twitter</a>.
           </p>
 
           <p>
@@ -55,7 +66,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
            <p>
-            <strong>Austin Hou</strong> is a designer and engineer. An avid explorer of ideas, places, and experiences, he has flown 22.4x around the earth by distance and has spent time in 67 countries. He has worked on critical protocols at Stanford Hospital, the Deep Space Network at JPL/NASA, ML research at SETI, and co-founded Mavencook, a video cooking app. He also enjoys experimenting with creative technology - this year, he built lighting systems for the Temple at Burning Man. When not working, you can often find him behind the lens of a camera.{' '}
+            <strong>Austin Hou</strong> is a designer and engineer. An avid explorer of ideas, places, and experiences, he has flown 23x around the earth by distance and has spent time in 72 countries. He has worked on emergency protocols at Stanford Hospital, the Deep Space Network at NASA, and cofounded Planetarium and Mavencook. He enjoys experimenting with creative technology, such as lighting systems for the Temple at Burning Man. Right now, he’s working on <a href="https://alpha.currents.fm">Currents</a>, a new project in the music space.{' '}
             <a href="http://ayh.io/">Homepage</a>.
           </p>
 
@@ -85,10 +96,6 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
             <a href="http://christina.kim/">Blog</a>,{' '}
             <a href="https://github.com/christinakim">GitHub</a>,{' '}
             <a href="https://twitter.com/christinahkim">Twitter</a>.
-          </p>
-
-          <p>
-            <strong>Gillian Morris</strong> is the founder and CEO of <a href="http://hitlistapp.com/">Hitlist</a>, an app that alerts you when there are cheap flights for your dream trips. Before entering the start-up world, Gillian worked as a consultant, journalist, and educator in Turkey, China, Afghanistan, and Syria. Her work has appeared in/on the New York Times, Harvard Business Review, Buzzfeed, and others. Between flights, Gillian is fighting to regain her six pack thanks to the Archive's sweet home gym and sauna setup. <a href="http://gillian.im/">Blog</a>, <a href="http://twitter.com/gillianim">Twitter</a>, <a href="https://www.facebook.com/gillianim">Facebook</a>.
           </p>
 
           <p>
@@ -139,19 +146,15 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
-            <strong>Nina Miolane</strong> is a researcher and lecturer at Stanford, where she explores the mysteries of healthy and pathological brains. She loves to think about the Minority Report of medicine: what if we could diagnose and cure diseases even before the symptoms appear? Prior to this, she was a machine learning engineer at Bay Labs working on the automatic diagnosis of cardiovascular diseases, she was also a graduate student in mathematical physics working on neutrinos detection. If not at the Archive, look for her on a flying trapeze at the circus, riding her motorcycle on the 1, or hiking in the wilderness! <a href="https://sites.google.com/site/ninamiolane/">Homepage</a>.
-          </p>
-          
-          <p>
             <strong>Rilka Li</strong> is a designer, engineer, aerialist, and nascent installation artist. Currently her brainspace is devoted to bettering the experience of labeling vast quantities of data at <a href="https://scale.com">Scale AI</a>, and to the endeavor of learning how to fabricate almost anything. She’s happiest when thinking about humans interact with their world and with each other, and gets unusually excited about unconventional grammatical constructions, fandom as a cultural phenomenon, and cucumbers. <a href="http://rilka.li/">Homepage</a>.
           </p>
-          
+
           <p>
-            <strong>Taylor Rogalski</strong> is a product designer and aspiring engineer 
-            at <a href="http://pioneer.app">Pioneer</a>. Previously, he led design at ClassDojo, 
-            built personalized learning software for Summit Public Schools, and helped people 
-            stalk their friends with Facebook Graph Search. He thinks the attention economy is 
-            harvesting human potential and filling our brains with sludge, and instead wishes 
+            <strong>Taylor Rogalski</strong> is a product designer and aspiring engineer
+            at <a href="http://pioneer.app">Pioneer</a>. Previously, he led design at ClassDojo,
+            built personalized learning software for Summit Public Schools, and helped people
+            stalk their friends with Facebook Graph Search. He thinks the attention economy is
+            harvesting human potential and filling our brains with sludge, and instead wishes
             his phone would manipulate him into becoming the person he wants to be.{' '}
             <a href="http://twitter.com/tayroga">Twitter</a>.
           </p>
