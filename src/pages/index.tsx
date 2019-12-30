@@ -46,7 +46,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           <h2>Residents</h2>
 
           <p>
-            <strong>Amanda Askell</strong> is a research scientist on the policy team at OpenAI where her goal is to help make AI go well for the world. Before working on AI she did research in philosophy and the ways that infinities break ethical theories. She’s originally from Scotland but has adapted to the Bay Area by adopting popular regional hobbies like climbing, autodidactism, and engaging with weird art.{' '}
+            <strong>Amanda Askell</strong> is a research scientist on the policy team at OpenAI where her goal is to help make AI go well for the world. Before working on AI she did research in philosophy on the ways that infinities break ethical theories. She’s originally from Scotland but has adapted to the Bay Area by adopting popular regional hobbies like climbing, autodidactism, and engaging with weird art.{' '}
             <a href="https://askell.io/">Homepage</a>.
           </p>
 
