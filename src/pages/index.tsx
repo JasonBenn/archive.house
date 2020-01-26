@@ -32,9 +32,9 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
             If you&rsquo;d like to live with us, {' '}
             <a href="https://goo.gl/forms/pTT0HuMgG0xIgf9t2">shoot us a message</a>.
           </h3>
-          <p>
+<!--           <p>
             Interested in staying with us for a short amount of time instead? Check out one of our <a href="https://www.airbnb.com/rooms/30088791?guests=1&adults=1" target='blank'>Airbnb listings</a>.
-          </p>
+          </p> -->
           <p>
             Or maybe you'd prefer to stay updated on future plans or events. If so, consider signing up for our <a href="https://tinyletter.com/archive-house-sf" target='blank'>occasional newsletter</a>.
           </p>
