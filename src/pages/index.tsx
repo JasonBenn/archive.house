@@ -96,7 +96,7 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
-            <strong>Jason Benn</strong> went from an unhappy financial consultant with no math or programming skills to a machine learning engineer after five years of part-time, self-directed study, for which he was profiled in Cal Newport's "Deep Work". These days he spends his time researching tools for thought, spearheading <a href="https://groups.google.com/forum/#!forum/archive-cohousing-updates">Archive Cohousing</a>, and watercolor painting. Enthusiastic, inclusive, a tad gullible, half-giant, and Keeper of Keys and Grounds at the Archive, Jason is basically Hagrid.{' '}
+            <strong>Jason Benn</strong> went from an unhappy financial consultant with no math or programming skills to a (much happier) machine learning engineer after five years of part-time, self-directed study, for which he was profiled in Cal Newport's "Deep Work". These days he spends his time researching tools for thought, spearheading <a href="https://groups.google.com/forum/#!forum/archive-cohousing-updates">Archive Cohousing</a>, and watercolor painting. Enthusiastic, inclusive, a tad gullible, half-giant, and Keeper of Keys and Grounds at the Archive, Jason is basically Hagrid.{' '}
             <a href="https://jasonbenn.com/">Homepage</a>.
           </p>
 
