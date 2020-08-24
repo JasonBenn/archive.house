@@ -147,12 +147,14 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
-            <strong>Taylor Rogalski</strong> is a product designer and aspiring engineer
-            at <a href="http://pioneer.app">Pioneer</a>. Previously, he led design at ClassDojo,
-            built personalized learning software for Summit Public Schools, and helped people
-            stalk their friends with Facebook Graph Search. He thinks the attention economy is
+            <strong>Taylor Rogalski</strong> is a product designer and aspiring engineer exploring ideas in intelligence augmentation. 
+            He's worked with <a href="http://roamresearch.com">Roam Research</a>, <a href="https://slashtalk.com">Slashtalk</a>, 
+            <a href="https://withprimer.com">Primer</a>, <a href="https://slapdash.com">Slapdash</a>, and <a href="https://pioneer.app">Pioneer</a>.
+            Previously, he led design at ClassDojo,
+            built personalized learning software for <a href="http://summitlearning.org">Summit Public Schools</a>, and helped people
+            stalk their friends with <a href="https://vimeo.com/57473663">Facebook Graph Search</a>. He thinks the attention economy is
             harvesting human potential and filling our brains with sludge, and instead wishes
-            his phone would manipulate him into becoming the person he wants to be.{' '}
+            his phone would manipulate him into achieving his goals.{' '}
             <a href="http://twitter.com/tayroga">Twitter</a>.
           </p>
           <p>
