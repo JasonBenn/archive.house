@@ -28,12 +28,8 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
             to a fulfilling and impactful life.
           </p>
 
-          <h3>
-            If you&rsquo;d like to live with us, {' '}
-            <a href="https://goo.gl/forms/pTT0HuMgG0xIgf9t2">shoot us a message</a>.
-          </h3>
           <p>
-            You can stay updated on future plans or events via our <a href="https://tinyletter.com/archive-house-sf" target='blank'>occasional newsletter</a> or <a href="https://www.facebook.com/thearchivehouse/" target='blank'>Facebook page</a>, or follow our journey to grow into a village <a href="https://groups.google.com/forum/#!forum/archive-cohousing-updates" target='blank'>here</a>. You can also follow our housemates' thoughts on <a href="https://twitter.com/i/lists/1211543505807392769" target='blank'>Twitter</a> or <a href="https://zapier.com/engine/rss/7208702/archive-blog" target='blank'>RSS</a>!
+            You can stay updated on future plans or events via our <a href="https://tinyletter.com/archive-house-sf" target='blank'>occasional newsletter</a>, or follow our journey to grow into a village <a href="https://groups.google.com/forum/#!forum/archive-cohousing-updates" target='blank'>here</a>. You can also follow our housemates' thoughts on <a href="https://twitter.com/i/lists/1211543505807392769" target='blank'>Twitter</a> or <a href="https://zapier.com/engine/rss/7208702/archive-blog" target='blank'>RSS</a>!
           </p>
 
           <hr />
